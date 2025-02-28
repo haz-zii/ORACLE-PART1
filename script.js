@@ -1,11 +1,11 @@
 // Object with keywords as keys and images as values
 // keywords: happy, nature, calm
 var images = {
-    distorted: "Untitled-1-01.jpg",
-    living: "Untitled-1-02.jpg",
-    nonchalant: "Untitled-1-06.jpg",
-    chilling: "Untitled-1-07.jpg",
-    posh: "Untitled-1-04.jpg",
+    distorted: "https://github.com/haz-zii/ORACLE-PART1/blob/00250eaea7fb0e864a1f52374055f14bcdebf652/Untitled-1-01.jpg",
+    living: "https://github.com/haz-zii/ORACLE-PART1/blob/00250eaea7fb0e864a1f52374055f14bcdebf652/Untitled-1-02.jpg",
+    nonchalant: "https://github.com/haz-zii/ORACLE-PART1/blob/00250eaea7fb0e864a1f52374055f14bcdebf652/Untitled-1-06.jpg",
+    chilling: "https://github.com/haz-zii/ORACLE-PART1/blob/00250eaea7fb0e864a1f52374055f14bcdebf652/Untitled-1-07.jpg",
+    posh: "https://github.com/haz-zii/ORACLE-PART1/blob/00250eaea7fb0e864a1f52374055f14bcdebf652/Untitled-1-04.jpg",
   };
   
   function checkSentence() {
