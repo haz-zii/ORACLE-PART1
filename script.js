@@ -1,11 +1,11 @@
 // Object with keywords as keys and images as values
 // keywords: happy, nature, calm
 var images = {
-    distorted: "/Users/haz/Downloads/Archive/Untitled-1-01.jpg",
-    living: "/Users/haz/Downloads/Archive/Untitled-1-02.jpg",
-    nonchalant: "/Users/haz/Downloads/Archive/Untitled-1-06.jpg",
-    chilling: "/Users/haz/Downloads/Archive/Untitled-1-07.jpg",
-    posh: "/Users/haz/Downloads/Archive/Untitled-1-04.jpg",
+    distorted: "Untitled-1-01.jpg",
+    living: "Untitled-1-02.jpg",
+    nonchalant: "Untitled-1-06.jpg",
+    chilling: "Untitled-1-07.jpg",
+    posh: "Untitled-1-04.jpg",
   };
   
   function checkSentence() {
